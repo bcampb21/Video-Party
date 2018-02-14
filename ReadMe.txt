@@ -1,4 +1,6 @@
-Video Party
+Make sure to have the latest Java JDK installed: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+-----------------Video Party-----------------
 
 This application plays Youtube videos once a twitter user posts a video with a certain prefix.
 
