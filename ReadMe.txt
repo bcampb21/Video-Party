@@ -9,9 +9,9 @@ Directions:
 1. Download files to pc that intends to play the video/music
 
 2. Click 'Run' file
-	- The name prompt will be the prefix you will use when tweeting so the program knows you want to play
-	it on a remote pc. Example names: Blake, Jim, videoparty, play, m, etc...
-	- The twitter account name is the name of the twitter account that you will post to.
+- The name prompt will be the prefix you will use when tweeting so the program knows you want 
+  to play it on a remote pc. Example names: Blake, Jim, videoparty, play, m, etc...
+- The twitter account name is the name of the twitter account that you will post to.
 
 3. Post to twitter! The program will now wait for a video to be posted.
 	THIS IS THE FORMAT:
