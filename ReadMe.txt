@@ -2,7 +2,8 @@ Make sure to have the latest Java JDK installed: http://www.oracle.com/technetwo
 
 -----------------Video Party-----------------
 
-This application plays Youtube videos once a twitter user posts a video with a certain prefix.
+This application plays Youtube videos remotely once a twitter user posts a video with a certain prefix.
+Post a video on twitter and have your computer play it over the speakers automatically without being near it.
 
 Directions:
 1. Download files to pc that intends to play the video/music
