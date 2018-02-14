@@ -28,8 +28,8 @@ Directions:
 
 
 Q: I messed up on the account name and/or user name. How can I change it?
-A: Close the program and click 'run.' When asked if you want to use previous preferences type 'n' for no. The
-	program will prompt you to enter the information.
+A: Close the program and click 'run.' When asked if you want to use previous preferences type 'n' for no. 
+The program will prompt you to enter the information.
 	B. Alternatively, you may open the 'UserSetting.txt' and change your information there.
 
 The possibilities are endless. You can use your phone to post and have it play on a pc across the world,
